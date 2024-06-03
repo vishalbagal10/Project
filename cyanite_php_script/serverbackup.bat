@@ -1,0 +1,1 @@
+powershell.exe robocopy C:\SonicCV\ \\u272172.your-storagebox.de\backup\SonicCV /e /zb /copy:DAT /dcopy:DAT /xd "C:\SonicCV\python_script\cron_project\download" 
