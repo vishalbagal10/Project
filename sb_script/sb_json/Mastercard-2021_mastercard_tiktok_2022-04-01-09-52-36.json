@@ -1,0 +1,59 @@
+{
+  "status": {
+    "success": true,
+    "status": 200
+  },
+  "info": {
+    "access": {
+      "seconds_to_expire": 2592000,
+      "expires_at": "05/01/2022 02:52:36 EDT"
+    },
+    "credits": {
+      "available": 685,
+      "premium-credits": 0
+    }
+  },
+  "data": {
+    "id": {
+      "id": "6763720137336161285",
+      "username": "mastercard",
+      "display_name": "Mastercard"
+    },
+    "general": {
+      "branding": {
+        "avatar": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a8a82e31be042473da2636b093b2716b~c5_720x720.jpeg?x-expires=1648879200&x-signature=tOZvfPHdp2CYg918DmW6qt%2FAJsg%3D"
+      }
+    },
+    "statistics": {
+      "total": {
+        "followers": 8209,
+        "following": 0,
+        "uploads": 5,
+        "likes": 261800
+      }
+    },
+    "misc": {
+      "grade": {
+        "color": "#666",
+        "grade": "TBD"
+      },
+      "sb_verified": false
+    },
+    "ranks": {
+      "sbrank": null,
+      "followers": null,
+      "following": null,
+      "uploads": null,
+      "likes": null
+    },
+    "daily": [
+      {
+        "date": "2022-04-01",
+        "followers": 8209,
+        "following": 0,
+        "likes": 261800,
+        "uploads": 5
+      }
+    ]
+  }
+}

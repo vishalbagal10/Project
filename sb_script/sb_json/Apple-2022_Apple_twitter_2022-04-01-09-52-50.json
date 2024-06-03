@@ -1,0 +1,7722 @@
+{
+  "status": {
+    "success": true,
+    "status": 200
+  },
+  "info": {
+    "access": {
+      "seconds_to_expire": 2592000,
+      "expires_at": "05/01/2022 02:52:48 EDT"
+    },
+    "credits": {
+      "available": 674,
+      "premium-credits": 0
+    }
+  },
+  "data": {
+    "id": {
+      "id": "380749300",
+      "username": "Apple",
+      "display_name": "Apple"
+    },
+    "general": {
+      "created_at": "Tue Sep 27 05:02:03 +0000 2011",
+      "geo": {
+        "location": "Cupertino, CA"
+      },
+      "branding": {
+        "avatar": "https://pbs.twimg.com/profile_images/1283958620359516160/p7zz5dxZ.jpg",
+        "banner": "https://pbs.twimg.com/profile_banners/380749300/1646845779",
+        "website": ""
+      }
+    },
+    "statistics": {
+      "total": {
+        "followers": 7705454,
+        "following": 0,
+        "tweets": 0
+      }
+    },
+    "misc": {
+      "grade": {
+        "color": "#4cac0d",
+        "grade": "A-"
+      },
+      "sb_verified": false,
+      "twitter_verified": false
+    },
+    "ranks": {
+      "sbrank": 636,
+      "followers": 636,
+      "following": 9982045,
+      "tweets": 10142770
+    },
+    "daily": [
+      {
+        "date": "2022-04-01",
+        "followers": 7705454,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-31",
+        "followers": 7702851,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-30",
+        "followers": 7700547,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-29",
+        "followers": 7698015,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-28",
+        "followers": 7695191,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-27",
+        "followers": 7691792,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-26",
+        "followers": 7689690,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-25",
+        "followers": 7687345,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-24",
+        "followers": 7684186,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-23",
+        "followers": 7680899,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-22",
+        "followers": 7678034,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-21",
+        "followers": 7673473,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-20",
+        "followers": 7671746,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-19",
+        "followers": 7670199,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-18",
+        "followers": 7667788,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-17",
+        "followers": 7665977,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-16",
+        "followers": 7664170,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-15",
+        "followers": 7662224,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-14",
+        "followers": 7659820,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-13",
+        "followers": 7657003,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-12",
+        "followers": 7654637,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-11",
+        "followers": 7650788,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-10",
+        "followers": 7646582,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-09",
+        "followers": 7634981,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-08",
+        "followers": 7607289,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-07",
+        "followers": 7600598,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-06",
+        "followers": 7592351,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-05",
+        "followers": 7582577,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-04",
+        "followers": 7572460,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-03",
+        "followers": 7559896,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-02",
+        "followers": 7551221,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-03-01",
+        "followers": 7545539,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-28",
+        "followers": 7541788,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-27",
+        "followers": 7536929,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-26",
+        "followers": 7531813,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-25",
+        "followers": 7527328,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-24",
+        "followers": 7521417,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-23",
+        "followers": 7519630,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-22",
+        "followers": 7516765,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-21",
+        "followers": 7514294,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-20",
+        "followers": 7511610,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-19",
+        "followers": 7509434,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-18",
+        "followers": 7506514,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-17",
+        "followers": 7503715,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-16",
+        "followers": 7501001,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-15",
+        "followers": 7498133,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-14",
+        "followers": 7495482,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-13",
+        "followers": 7492142,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-12",
+        "followers": 7489261,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-11",
+        "followers": 7486016,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-10",
+        "followers": 7482283,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-09",
+        "followers": 7478043,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-08",
+        "followers": 7474451,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-07",
+        "followers": 7470465,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-06",
+        "followers": 7467369,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-05",
+        "followers": 7465020,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-04",
+        "followers": 7462106,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-03",
+        "followers": 7459128,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-02",
+        "followers": 7455950,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-02-01",
+        "followers": 7452891,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-31",
+        "followers": 7449821,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-30",
+        "followers": 7446804,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-29",
+        "followers": 7444043,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-28",
+        "followers": 7440436,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-27",
+        "followers": 7437267,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-26",
+        "followers": 7431810,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-25",
+        "followers": 7430160,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-24",
+        "followers": 7427733,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-23",
+        "followers": 7425339,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-22",
+        "followers": 7422720,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-21",
+        "followers": 7420199,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-20",
+        "followers": 7417533,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-19",
+        "followers": 7414705,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-18",
+        "followers": 7411715,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-17",
+        "followers": 7409113,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-16",
+        "followers": 7406166,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-15",
+        "followers": 7403310,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-14",
+        "followers": 7401072,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-13",
+        "followers": 7397874,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-12",
+        "followers": 7395373,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-11",
+        "followers": 7392802,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-10",
+        "followers": 7390163,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-09",
+        "followers": 7387166,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-08",
+        "followers": 7384392,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-07",
+        "followers": 7381265,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-06",
+        "followers": 7378012,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-05",
+        "followers": 7374643,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-04",
+        "followers": 7371411,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-03",
+        "followers": 7368186,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-02",
+        "followers": 7364740,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2022-01-01",
+        "followers": 7362041,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-31",
+        "followers": 7359915,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-30",
+        "followers": 7357598,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-29",
+        "followers": 7355101,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-28",
+        "followers": 7351785,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-27",
+        "followers": 7349029,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-26",
+        "followers": 7346724,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-25",
+        "followers": 7343497,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-24",
+        "followers": 7341000,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-23",
+        "followers": 7337910,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-22",
+        "followers": 7334325,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-21",
+        "followers": 7329613,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-20",
+        "followers": 7325231,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-19",
+        "followers": 7321780,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-18",
+        "followers": 7317796,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-17",
+        "followers": 7314199,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-16",
+        "followers": 7310401,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-15",
+        "followers": 7307369,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-14",
+        "followers": 7304322,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-13",
+        "followers": 7301721,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-12",
+        "followers": 7298703,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-11",
+        "followers": 7295883,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-10",
+        "followers": 7292720,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-09",
+        "followers": 7289550,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-08",
+        "followers": 7285953,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-07",
+        "followers": 7282192,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-06",
+        "followers": 7277696,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-05",
+        "followers": 7275001,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-04",
+        "followers": 7270986,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-03",
+        "followers": 7266932,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-02",
+        "followers": 7262543,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-12-01",
+        "followers": 7258152,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-30",
+        "followers": 7254073,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-29",
+        "followers": 7249531,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-28",
+        "followers": 7244485,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-27",
+        "followers": 7239955,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-26",
+        "followers": 7235252,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-25",
+        "followers": 7230909,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-24",
+        "followers": 7225989,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-23",
+        "followers": 7219647,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-22",
+        "followers": 7214404,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-21",
+        "followers": 7207873,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-20",
+        "followers": 7203792,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-19",
+        "followers": 7198975,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-18",
+        "followers": 7194100,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-17",
+        "followers": 7189132,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-16",
+        "followers": 7185095,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-15",
+        "followers": 7180762,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-14",
+        "followers": 7177228,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-13",
+        "followers": 7173464,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-12",
+        "followers": 7170142,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-11",
+        "followers": 7167124,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-10",
+        "followers": 7163597,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-09",
+        "followers": 7158715,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-08",
+        "followers": 7155040,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-07",
+        "followers": 7150319,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-06",
+        "followers": 7147020,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-05",
+        "followers": 7144839,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-04",
+        "followers": 7142339,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-03",
+        "followers": 7139637,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-02",
+        "followers": 7136346,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-11-01",
+        "followers": 7133710,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-31",
+        "followers": 7131245,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-30",
+        "followers": 7128397,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-29",
+        "followers": 7124380,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-28",
+        "followers": 7123021,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-27",
+        "followers": 7121126,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-26",
+        "followers": 7119085,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-25",
+        "followers": 7115959,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-24",
+        "followers": 7112568,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-23",
+        "followers": 7108719,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-22",
+        "followers": 7105001,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-21",
+        "followers": 7100068,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-20",
+        "followers": 7098149,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-19",
+        "followers": 7085287,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-18",
+        "followers": 7068848,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-17",
+        "followers": 7063168,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-16",
+        "followers": 7056635,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-15",
+        "followers": 7049708,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-14",
+        "followers": 7042747,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-13",
+        "followers": 7035926,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-12",
+        "followers": 7034791,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-11",
+        "followers": 7025793,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-10",
+        "followers": 7020504,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-09",
+        "followers": 7014627,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-08",
+        "followers": 7008900,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-07",
+        "followers": 7002958,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-06",
+        "followers": 6995030,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-05",
+        "followers": 6989261,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-04",
+        "followers": 6968328,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-03",
+        "followers": 6964045,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-02",
+        "followers": 6961936,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-10-01",
+        "followers": 6958671,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-30",
+        "followers": 6955641,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-29",
+        "followers": 6952614,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-28",
+        "followers": 6949713,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-27",
+        "followers": 6947507,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-26",
+        "followers": 6944407,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-25",
+        "followers": 6942464,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-24",
+        "followers": 6937524,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-23",
+        "followers": 6933438,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-22",
+        "followers": 6927567,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-21",
+        "followers": 6918407,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-20",
+        "followers": 6909620,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-19",
+        "followers": 6904221,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-18",
+        "followers": 6898441,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-17",
+        "followers": 6890744,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-16",
+        "followers": 6883113,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-15",
+        "followers": 6861702,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-14",
+        "followers": 6785242,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-13",
+        "followers": 6775982,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-12",
+        "followers": 6769326,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-11",
+        "followers": 6763340,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-10",
+        "followers": 6756083,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-09",
+        "followers": 6746969,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-08",
+        "followers": 6735731,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-07",
+        "followers": 6725706,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-06",
+        "followers": 6722207,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-05",
+        "followers": 6718866,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-04",
+        "followers": 6715260,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-03",
+        "followers": 6711790,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-02",
+        "followers": 6706070,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-09-01",
+        "followers": 6700400,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-31",
+        "followers": 6694070,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-30",
+        "followers": 6687986,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-29",
+        "followers": 6682746,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-28",
+        "followers": 6677501,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-27",
+        "followers": 6671609,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-26",
+        "followers": 6666945,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-25",
+        "followers": 6661152,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-24",
+        "followers": 6657294,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-23",
+        "followers": 6653767,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-22",
+        "followers": 6650692,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-21",
+        "followers": 6647422,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-20",
+        "followers": 6644074,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-19",
+        "followers": 6640604,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-18",
+        "followers": 6635889,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-17",
+        "followers": 6631546,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-16",
+        "followers": 6626783,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-15",
+        "followers": 6621276,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-14",
+        "followers": 6615865,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-13",
+        "followers": 6610761,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-12",
+        "followers": 6604904,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-11",
+        "followers": 6600074,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-10",
+        "followers": 6594538,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-09",
+        "followers": 6589805,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-08",
+        "followers": 6585712,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-07",
+        "followers": 6581673,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-06",
+        "followers": 6576811,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-05",
+        "followers": 6571773,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-04",
+        "followers": 6567499,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-03",
+        "followers": 6564301,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-02",
+        "followers": 6561524,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-08-01",
+        "followers": 6559133,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-31",
+        "followers": 6556504,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-30",
+        "followers": 6553653,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-29",
+        "followers": 6550433,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-28",
+        "followers": 6547296,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-27",
+        "followers": 6543412,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-26",
+        "followers": 6540724,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-25",
+        "followers": 6537208,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-24",
+        "followers": 6534651,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-23",
+        "followers": 6531543,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-22",
+        "followers": 6528340,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-21",
+        "followers": 6525149,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-20",
+        "followers": 6520259,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-19",
+        "followers": 6515925,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-18",
+        "followers": 6512019,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-17",
+        "followers": 6508489,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-16",
+        "followers": 6504166,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-15",
+        "followers": 6500418,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-14",
+        "followers": 6497125,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-13",
+        "followers": 6493029,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-12",
+        "followers": 6487065,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-11",
+        "followers": 6481851,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-10",
+        "followers": 6479171,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-09",
+        "followers": 6476819,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-08",
+        "followers": 6473899,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-07",
+        "followers": 6471150,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-06",
+        "followers": 6468701,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-05",
+        "followers": 6466159,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-04",
+        "followers": 6463307,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-03",
+        "followers": 6460473,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-02",
+        "followers": 6457117,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-07-01",
+        "followers": 6454037,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-30",
+        "followers": 6451126,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-29",
+        "followers": 6448366,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-28",
+        "followers": 6445937,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-27",
+        "followers": 6443239,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-26",
+        "followers": 6440366,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-25",
+        "followers": 6436792,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-24",
+        "followers": 6433753,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-23",
+        "followers": 6431188,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-22",
+        "followers": 6428294,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-21",
+        "followers": 6425986,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-20",
+        "followers": 6423230,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-19",
+        "followers": 6420131,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-18",
+        "followers": 6415698,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-17",
+        "followers": 6414002,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-16",
+        "followers": 6411133,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-15",
+        "followers": 6408033,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-14",
+        "followers": 6405633,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-13",
+        "followers": 6402284,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-12",
+        "followers": 6396489,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-11",
+        "followers": 6393628,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-10",
+        "followers": 6392777,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-09",
+        "followers": 6391412,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-08",
+        "followers": 6386208,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-07",
+        "followers": 6369151,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-06",
+        "followers": 6364344,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-05",
+        "followers": 6359054,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-04",
+        "followers": 6353653,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-03",
+        "followers": 6348501,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-02",
+        "followers": 6343323,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-06-01",
+        "followers": 6339052,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-31",
+        "followers": 6337378,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-30",
+        "followers": 6334729,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-29",
+        "followers": 6330926,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-28",
+        "followers": 6328838,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-27",
+        "followers": 6325714,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-26",
+        "followers": 6321270,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-25",
+        "followers": 6318199,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-24",
+        "followers": 6313745,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-23",
+        "followers": 6306473,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-22",
+        "followers": 6303328,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-21",
+        "followers": 6300866,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-20",
+        "followers": 6298492,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-19",
+        "followers": 6297144,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-18",
+        "followers": 6295433,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-17",
+        "followers": 6292758,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-16",
+        "followers": 6289920,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-15",
+        "followers": 6287037,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-14",
+        "followers": 6283899,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-13",
+        "followers": 6280775,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-12",
+        "followers": 6277308,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-11",
+        "followers": 6273865,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-10",
+        "followers": 6270994,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-09",
+        "followers": 6266988,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-08",
+        "followers": 6260827,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-07",
+        "followers": 6255528,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-06",
+        "followers": 6252969,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-05",
+        "followers": 6249916,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-04",
+        "followers": 6247334,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-03",
+        "followers": 6245356,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-02",
+        "followers": 6243512,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-05-01",
+        "followers": 6240414,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-30",
+        "followers": 6237863,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-29",
+        "followers": 6235017,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-28",
+        "followers": 6232309,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-27",
+        "followers": 6229400,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-26",
+        "followers": 6226413,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-25",
+        "followers": 6223664,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-24",
+        "followers": 6221059,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-23",
+        "followers": 6217132,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-22",
+        "followers": 6213620,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-21",
+        "followers": 6205576,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-20",
+        "followers": 6182704,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-19",
+        "followers": 6179311,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-18",
+        "followers": 6176990,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-17",
+        "followers": 6174715,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-16",
+        "followers": 6172665,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-15",
+        "followers": 6170416,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-14",
+        "followers": 6167587,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-13",
+        "followers": 6164435,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-12",
+        "followers": 6163038,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-11",
+        "followers": 6161270,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-10",
+        "followers": 6159405,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-09",
+        "followers": 6157625,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-08",
+        "followers": 6156079,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-07",
+        "followers": 6154222,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-06",
+        "followers": 6152193,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-05",
+        "followers": 6150741,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-04",
+        "followers": 6148779,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-03",
+        "followers": 6146758,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-02",
+        "followers": 6144177,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-04-01",
+        "followers": 6141346,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-31",
+        "followers": 6137787,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-30",
+        "followers": 6136951,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-29",
+        "followers": 6135249,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-28",
+        "followers": 6133089,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-27",
+        "followers": 6130109,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-26",
+        "followers": 6127276,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-25",
+        "followers": 6124640,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-24",
+        "followers": 6121842,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-23",
+        "followers": 6118678,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-22",
+        "followers": 6115822,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-21",
+        "followers": 6112190,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-20",
+        "followers": 6109084,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-19",
+        "followers": 6104641,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-18",
+        "followers": 6102573,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-17",
+        "followers": 6099296,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-16",
+        "followers": 6095781,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-15",
+        "followers": 6093069,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-14",
+        "followers": 6090133,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-13",
+        "followers": 6087131,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-12",
+        "followers": 6084502,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-11",
+        "followers": 6082083,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-10",
+        "followers": 6079370,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-09",
+        "followers": 6076677,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-08",
+        "followers": 6073792,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-07",
+        "followers": 6070987,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-06",
+        "followers": 6068029,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-05",
+        "followers": 6064898,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-04",
+        "followers": 6061852,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-03",
+        "followers": 6058532,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-02",
+        "followers": 6055329,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-03-01",
+        "followers": 6052574,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-28",
+        "followers": 6049031,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-27",
+        "followers": 6045906,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-26",
+        "followers": 6042703,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-25",
+        "followers": 6039083,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-24",
+        "followers": 6033830,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-23",
+        "followers": 6026744,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-22",
+        "followers": 6023243,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-21",
+        "followers": 6019945,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-20",
+        "followers": 6015642,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-19",
+        "followers": 6011226,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-18",
+        "followers": 6006974,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-17",
+        "followers": 6003247,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-16",
+        "followers": 5999950,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-15",
+        "followers": 5997373,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-14",
+        "followers": 5994801,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-13",
+        "followers": 5992108,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-12",
+        "followers": 5988652,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-11",
+        "followers": 5985145,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-10",
+        "followers": 5980773,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-09",
+        "followers": 5974882,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-08",
+        "followers": 5970305,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-07",
+        "followers": 5966930,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-06",
+        "followers": 5963334,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-05",
+        "followers": 5959382,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-04",
+        "followers": 5954535,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-03",
+        "followers": 5950624,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-02",
+        "followers": 5946823,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-02-01",
+        "followers": 5943769,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-31",
+        "followers": 5939144,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-30",
+        "followers": 5933450,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-29",
+        "followers": 5927194,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-28",
+        "followers": 5920869,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-27",
+        "followers": 5915817,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-26",
+        "followers": 5912304,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-25",
+        "followers": 5908766,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-24",
+        "followers": 5905746,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-23",
+        "followers": 5902606,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-22",
+        "followers": 5899436,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-21",
+        "followers": 5896320,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-20",
+        "followers": 5893394,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-19",
+        "followers": 5889988,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-18",
+        "followers": 5885874,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-17",
+        "followers": 5882552,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-16",
+        "followers": 5879110,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-15",
+        "followers": 5874826,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-14",
+        "followers": 5870324,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-13",
+        "followers": 5864148,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-12",
+        "followers": 5857299,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-11",
+        "followers": 5850379,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-10",
+        "followers": 5844235,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-09",
+        "followers": 5841433,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-08",
+        "followers": 5836499,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-07",
+        "followers": 5832907,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-06",
+        "followers": 5829077,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-05",
+        "followers": 5825942,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-04",
+        "followers": 5822840,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-03",
+        "followers": 5819752,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-02",
+        "followers": 5816455,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2021-01-01",
+        "followers": 5813270,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-31",
+        "followers": 5810795,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-30",
+        "followers": 5807728,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-29",
+        "followers": 5804276,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-28",
+        "followers": 5800984,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-27",
+        "followers": 5797803,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-26",
+        "followers": 5793920,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-25",
+        "followers": 5789425,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-24",
+        "followers": 5786326,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-23",
+        "followers": 5781853,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-22",
+        "followers": 5777360,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-21",
+        "followers": 5773942,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-20",
+        "followers": 5770515,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-19",
+        "followers": 5766708,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-18",
+        "followers": 5763023,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-17",
+        "followers": 5759416,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-16",
+        "followers": 5754106,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-15",
+        "followers": 5750326,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-14",
+        "followers": 5746021,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-13",
+        "followers": 5742369,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-12",
+        "followers": 5738917,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-11",
+        "followers": 5734281,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-10",
+        "followers": 5729189,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-09",
+        "followers": 5725062,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-08",
+        "followers": 5715409,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-07",
+        "followers": 5708577,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-06",
+        "followers": 5702373,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-05",
+        "followers": 5695875,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-04",
+        "followers": 5687484,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-03",
+        "followers": 5677710,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-02",
+        "followers": 5669712,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-12-01",
+        "followers": 5660828,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-30",
+        "followers": 5652524,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-29",
+        "followers": 5645261,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-28",
+        "followers": 5639138,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-27",
+        "followers": 5634318,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-26",
+        "followers": 5630001,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-25",
+        "followers": 5623075,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-24",
+        "followers": 5616001,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-23",
+        "followers": 5610541,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-22",
+        "followers": 5605143,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-21",
+        "followers": 5600642,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-20",
+        "followers": 5594897,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-19",
+        "followers": 5589337,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-18",
+        "followers": 5582588,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-17",
+        "followers": 5577676,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-16",
+        "followers": 5572524,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-15",
+        "followers": 5566821,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-14",
+        "followers": 5561765,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-13",
+        "followers": 5555582,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-12",
+        "followers": 5548589,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-11",
+        "followers": 5540802,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-10",
+        "followers": 5527597,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-09",
+        "followers": 5522667,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-08",
+        "followers": 5516420,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-07",
+        "followers": 5509557,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-06",
+        "followers": 5502756,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-05",
+        "followers": 5496435,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-04",
+        "followers": 5490852,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-03",
+        "followers": 5485473,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-02",
+        "followers": 5479357,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-11-01",
+        "followers": 5474019,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-31",
+        "followers": 5469403,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-30",
+        "followers": 5463974,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-29",
+        "followers": 5459157,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-28",
+        "followers": 5453958,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-27",
+        "followers": 5447947,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-26",
+        "followers": 5440701,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-25",
+        "followers": 5434957,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-24",
+        "followers": 5429348,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-23",
+        "followers": 5420987,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-22",
+        "followers": 5415480,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-21",
+        "followers": 5409774,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-20",
+        "followers": 5403820,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-19",
+        "followers": 5398306,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-18",
+        "followers": 5391964,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-17",
+        "followers": 5381197,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-16",
+        "followers": 5371793,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-15",
+        "followers": 5350738,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-14",
+        "followers": 5302812,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-13",
+        "followers": 5205065,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-12",
+        "followers": 5196901,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-11",
+        "followers": 5190707,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-10",
+        "followers": 5182642,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-09",
+        "followers": 5172841,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-08",
+        "followers": 5161311,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-07",
+        "followers": 5151692,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-06",
+        "followers": 5139603,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-05",
+        "followers": 5134847,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-04",
+        "followers": 5129820,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-03",
+        "followers": 5125130,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-02",
+        "followers": 5119481,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-10-01",
+        "followers": 5114708,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-30",
+        "followers": 5109544,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-29",
+        "followers": 5104115,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-28",
+        "followers": 5099310,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-27",
+        "followers": 5094681,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-26",
+        "followers": 5088776,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-25",
+        "followers": 5082895,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-24",
+        "followers": 5077462,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-23",
+        "followers": 5071961,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-22",
+        "followers": 5066237,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-21",
+        "followers": 5061017,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-20",
+        "followers": 5055787,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-19",
+        "followers": 5050019,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-18",
+        "followers": 5041643,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-17",
+        "followers": 5029627,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-16",
+        "followers": 4996268,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-15",
+        "followers": 4930365,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-14",
+        "followers": 4923117,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-13",
+        "followers": 4916783,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-12",
+        "followers": 4911187,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-11",
+        "followers": 4904092,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-10",
+        "followers": 4897253,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-09",
+        "followers": 4889450,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-08",
+        "followers": 4870617,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-07",
+        "followers": 4864572,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-06",
+        "followers": 4859530,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-05",
+        "followers": 4855211,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-04",
+        "followers": 4850686,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-03",
+        "followers": 4845799,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-02",
+        "followers": 4840429,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-09-01",
+        "followers": 4835074,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-31",
+        "followers": 4829796,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-30",
+        "followers": 4824642,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-29",
+        "followers": 4819650,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-28",
+        "followers": 4814327,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-27",
+        "followers": 4808541,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-26",
+        "followers": 4802366,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-25",
+        "followers": 4796443,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-24",
+        "followers": 4790303,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-23",
+        "followers": 4785650,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-22",
+        "followers": 4781348,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-21",
+        "followers": 4776195,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-20",
+        "followers": 4770847,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-19",
+        "followers": 4765510,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-18",
+        "followers": 4760824,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-17",
+        "followers": 4756075,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-16",
+        "followers": 4751461,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-15",
+        "followers": 4746488,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-14",
+        "followers": 4736213,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-13",
+        "followers": 4719733,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-12",
+        "followers": 4715081,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-11",
+        "followers": 4710230,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-10",
+        "followers": 4706244,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-09",
+        "followers": 4702299,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-08",
+        "followers": 4698372,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-07",
+        "followers": 4694101,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-06",
+        "followers": 4689537,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-05",
+        "followers": 4685181,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-04",
+        "followers": 4681083,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-03",
+        "followers": 4677160,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-02",
+        "followers": 4672952,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-08-01",
+        "followers": 4668998,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-31",
+        "followers": 4665150,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-30",
+        "followers": 4660930,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-29",
+        "followers": 4656989,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-28",
+        "followers": 4653196,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-27",
+        "followers": 4649761,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-26",
+        "followers": 4646119,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-25",
+        "followers": 4642255,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-24",
+        "followers": 4638192,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-23",
+        "followers": 4634608,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-22",
+        "followers": 4630466,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-21",
+        "followers": 4624706,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-20",
+        "followers": 4620689,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-19",
+        "followers": 4617250,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-18",
+        "followers": 4614025,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-17",
+        "followers": 4609890,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-16",
+        "followers": 4606487,
+        "following": 0,
+        "tweets": 1,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-15",
+        "followers": 4599949,
+        "following": 0,
+        "tweets": 1,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-14",
+        "followers": 4591185,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-13",
+        "followers": 4587713,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-12",
+        "followers": 4584273,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-11",
+        "followers": 4580224,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-10",
+        "followers": 4575850,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-09",
+        "followers": 4572662,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-08",
+        "followers": 4570072,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-07",
+        "followers": 4567130,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-06",
+        "followers": 4564446,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-05",
+        "followers": 4561471,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-04",
+        "followers": 4558964,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-03",
+        "followers": 4556417,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-02",
+        "followers": 4553684,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-07-01",
+        "followers": 4550431,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-30",
+        "followers": 4547415,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-29",
+        "followers": 4544680,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-28",
+        "followers": 4542434,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-27",
+        "followers": 4540297,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-26",
+        "followers": 4537408,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-25",
+        "followers": 4534061,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-24",
+        "followers": 4529791,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-23",
+        "followers": 4519841,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-22",
+        "followers": 4487344,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-21",
+        "followers": 4482668,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-20",
+        "followers": 4478202,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-19",
+        "followers": 4475241,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-18",
+        "followers": 4472020,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-17",
+        "followers": 4467985,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-16",
+        "followers": 4462781,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-15",
+        "followers": 4459529,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-14",
+        "followers": 4456598,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-13",
+        "followers": 4452186,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-12",
+        "followers": 4449618,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-11",
+        "followers": 4446588,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-10",
+        "followers": 4443940,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-09",
+        "followers": 4440719,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-08",
+        "followers": 4436979,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-07",
+        "followers": 4433958,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-06",
+        "followers": 4430552,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-05",
+        "followers": 4426916,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-04",
+        "followers": 4422804,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-03",
+        "followers": 4419474,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-02",
+        "followers": 4413883,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-06-01",
+        "followers": 4408890,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-31",
+        "followers": 4404231,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-30",
+        "followers": 4399956,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-29",
+        "followers": 4395261,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-28",
+        "followers": 4391176,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-27",
+        "followers": 4387535,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-26",
+        "followers": 4383969,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-25",
+        "followers": 4380449,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-24",
+        "followers": 4376958,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-23",
+        "followers": 4372916,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-22",
+        "followers": 4368991,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-21",
+        "followers": 4364193,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-20",
+        "followers": 4360286,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-19",
+        "followers": 4356631,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-18",
+        "followers": 4353411,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-17",
+        "followers": 4350259,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-16",
+        "followers": 4347001,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-15",
+        "followers": 4343742,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-14",
+        "followers": 4340443,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-13",
+        "followers": 4337268,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-12",
+        "followers": 4334026,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-11",
+        "followers": 4330860,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-10",
+        "followers": 4327916,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-09",
+        "followers": 4325342,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-08",
+        "followers": 4322585,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-07",
+        "followers": 4319212,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-06",
+        "followers": 4315586,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-05",
+        "followers": 4311666,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-04",
+        "followers": 4308196,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-03",
+        "followers": 4304889,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-02",
+        "followers": 4301645,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-05-01",
+        "followers": 4298194,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-30",
+        "followers": 4295009,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-29",
+        "followers": 4291724,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-28",
+        "followers": 4288364,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-27",
+        "followers": 4285513,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-26",
+        "followers": 4282395,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-25",
+        "followers": 4278458,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-24",
+        "followers": 4275295,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-23",
+        "followers": 4272411,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-22",
+        "followers": 4269333,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-21",
+        "followers": 4265734,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-20",
+        "followers": 4263093,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-19",
+        "followers": 4259937,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-18",
+        "followers": 4255510,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-17",
+        "followers": 4249552,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-16",
+        "followers": 4241037,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-15",
+        "followers": 4210229,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-14",
+        "followers": 4206399,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-13",
+        "followers": 4203810,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-12",
+        "followers": 4201461,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-11",
+        "followers": 4198736,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-10",
+        "followers": 4196726,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-09",
+        "followers": 4194475,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-08",
+        "followers": 4191610,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-07",
+        "followers": 4189689,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-06",
+        "followers": 4186447,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-05",
+        "followers": 4184250,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-04",
+        "followers": 4182182,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-03",
+        "followers": 4179642,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-02",
+        "followers": 4175846,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-04-01",
+        "followers": 4173047,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-31",
+        "followers": 4170620,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-30",
+        "followers": 4168303,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-29",
+        "followers": 4164854,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-28",
+        "followers": 4164165,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-27",
+        "followers": 4158936,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-26",
+        "followers": 4154697,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-25",
+        "followers": 4149580,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-24",
+        "followers": 4142567,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-23",
+        "followers": 4138330,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-22",
+        "followers": 4133531,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-21",
+        "followers": 4129237,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-20",
+        "followers": 4125501,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-19",
+        "followers": 4121711,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-18",
+        "followers": 4113483,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-17",
+        "followers": 4110037,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-16",
+        "followers": 4105827,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-15",
+        "followers": 4100766,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-14",
+        "followers": 4095335,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-13",
+        "followers": 4090644,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-12",
+        "followers": 4086411,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-11",
+        "followers": 4082101,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-10",
+        "followers": 4078217,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-09",
+        "followers": 4074292,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-08",
+        "followers": 4068290,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-07",
+        "followers": 4063122,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-06",
+        "followers": 4058890,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-05",
+        "followers": 4055306,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-04",
+        "followers": 4051397,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-03",
+        "followers": 4047070,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-02",
+        "followers": 4045308,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-03-01",
+        "followers": 4043931,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-29",
+        "followers": 4040447,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-28",
+        "followers": 4036339,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-27",
+        "followers": 4032499,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-26",
+        "followers": 4028433,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-25",
+        "followers": 4024179,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-24",
+        "followers": 4022192,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-23",
+        "followers": 4017969,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-22",
+        "followers": 4014263,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-21",
+        "followers": 4010464,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-20",
+        "followers": 4006330,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-19",
+        "followers": 4001938,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-18",
+        "followers": 3997319,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-17",
+        "followers": 3995318,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-16",
+        "followers": 3993669,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-15",
+        "followers": 3989635,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-14",
+        "followers": 3985124,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-13",
+        "followers": 3981330,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-12",
+        "followers": 3976780,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-11",
+        "followers": 3971832,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-10",
+        "followers": 3967902,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-09",
+        "followers": 3963895,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-08",
+        "followers": 3960106,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-07",
+        "followers": 3956471,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-06",
+        "followers": 3952556,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-05",
+        "followers": 3948543,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-04",
+        "followers": 3944513,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-03",
+        "followers": 3940682,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-02",
+        "followers": 3936927,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-02-01",
+        "followers": 3933127,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-31",
+        "followers": 3929801,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-30",
+        "followers": 3925980,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-29",
+        "followers": 3922019,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-28",
+        "followers": 3917032,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-27",
+        "followers": 3911560,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-26",
+        "followers": 3907275,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-25",
+        "followers": 3903833,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-24",
+        "followers": 3900148,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-23",
+        "followers": 3897171,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-22",
+        "followers": 3894221,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-21",
+        "followers": 3891178,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-20",
+        "followers": 3888307,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-19",
+        "followers": 3885322,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-18",
+        "followers": 3882432,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-17",
+        "followers": 3879627,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-16",
+        "followers": 3876477,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-15",
+        "followers": 3873321,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-14",
+        "followers": 3870093,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-13",
+        "followers": 3867033,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-12",
+        "followers": 3864041,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-11",
+        "followers": 3861321,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-10",
+        "followers": 3858800,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-09",
+        "followers": 3855550,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-08",
+        "followers": 3852162,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-07",
+        "followers": 3848692,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-06",
+        "followers": 3845284,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-05",
+        "followers": 3841799,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-04",
+        "followers": 3838728,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-03",
+        "followers": 3835305,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-02",
+        "followers": 3832581,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2020-01-01",
+        "followers": 3830179,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-31",
+        "followers": 3828250,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-30",
+        "followers": 3825966,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-29",
+        "followers": 3823761,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-28",
+        "followers": 3821373,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-27",
+        "followers": 3818593,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-26",
+        "followers": 3815966,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-25",
+        "followers": 3813185,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-24",
+        "followers": 3810475,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-23",
+        "followers": 3807418,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-22",
+        "followers": 3804308,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-21",
+        "followers": 3801559,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-20",
+        "followers": 3798671,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-19",
+        "followers": 3795808,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-18",
+        "followers": 3792343,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-17",
+        "followers": 3789238,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-16",
+        "followers": 3786428,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-15",
+        "followers": 3783542,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-14",
+        "followers": 3780787,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-13",
+        "followers": 3777487,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-12",
+        "followers": 3774175,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-11",
+        "followers": 3770791,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-10",
+        "followers": 3767292,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-09",
+        "followers": 3763435,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-08",
+        "followers": 3759980,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-07",
+        "followers": 3755862,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-06",
+        "followers": 3753194,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-05",
+        "followers": 3750176,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-04",
+        "followers": 3746866,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-03",
+        "followers": 3744435,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-02",
+        "followers": 3741027,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-12-01",
+        "followers": 3737898,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-30",
+        "followers": 3734846,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-29",
+        "followers": 3731919,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-28",
+        "followers": 3728255,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-27",
+        "followers": 3724869,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-26",
+        "followers": 3721749,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-25",
+        "followers": 3718293,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-24",
+        "followers": 3714897,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-23",
+        "followers": 3710759,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-22",
+        "followers": 3707838,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-21",
+        "followers": 3705050,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-20",
+        "followers": 3700741,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-19",
+        "followers": 3697813,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-18",
+        "followers": 3692382,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-17",
+        "followers": 3688930,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-16",
+        "followers": 3685629,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-15",
+        "followers": 3681982,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-14",
+        "followers": 3677927,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-13",
+        "followers": 3672412,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-12",
+        "followers": 3672643,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-11",
+        "followers": 3667979,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-10",
+        "followers": 3662649,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-09",
+        "followers": 3657821,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-08",
+        "followers": 3653016,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-07",
+        "followers": 3665888,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-06",
+        "followers": 3660426,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-05",
+        "followers": 3655111,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-04",
+        "followers": 3650021,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-03",
+        "followers": 3644911,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-02",
+        "followers": 3639851,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-11-01",
+        "followers": 3634494,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-31",
+        "followers": 3629526,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-30",
+        "followers": 3623685,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-29",
+        "followers": 3617602,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-28",
+        "followers": 3608406,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-27",
+        "followers": 3604109,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-26",
+        "followers": 3599796,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-25",
+        "followers": 3595681,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-24",
+        "followers": 3591170,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-23",
+        "followers": 3585882,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-22",
+        "followers": 3581015,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-21",
+        "followers": 3575726,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-20",
+        "followers": 3570470,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-19",
+        "followers": 3565198,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-18",
+        "followers": 3560278,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-17",
+        "followers": 3553765,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-16",
+        "followers": 3547726,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-15",
+        "followers": 3540998,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-14",
+        "followers": 3534424,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-13",
+        "followers": 3527832,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-12",
+        "followers": 3522256,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-11",
+        "followers": 3516632,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-10",
+        "followers": 3510289,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-09",
+        "followers": 3504054,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-08",
+        "followers": 3497580,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-07",
+        "followers": 3492233,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-06",
+        "followers": 3485745,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-05",
+        "followers": 3480180,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-04",
+        "followers": 3474340,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-03",
+        "followers": 3468918,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-02",
+        "followers": 3463558,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-10-01",
+        "followers": 3457733,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-30",
+        "followers": 3452057,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-29",
+        "followers": 3446905,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-28",
+        "followers": 3441065,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-27",
+        "followers": 3434879,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-26",
+        "followers": 3426926,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-25",
+        "followers": 3417873,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-24",
+        "followers": 3410045,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-23",
+        "followers": 3405474,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-22",
+        "followers": 3399627,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-21",
+        "followers": 3390514,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-20",
+        "followers": 3378542,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-19",
+        "followers": 3368619,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-18",
+        "followers": 3364870,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-17",
+        "followers": 3360911,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-16",
+        "followers": 3354469,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-15",
+        "followers": 3348617,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-14",
+        "followers": 3341232,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-13",
+        "followers": 3333014,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-12",
+        "followers": 3322512,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-11",
+        "followers": 3298897,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-10",
+        "followers": 3207086,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-09",
+        "followers": 3190003,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-08",
+        "followers": 3178127,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-07",
+        "followers": 3168929,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-06",
+        "followers": 3159031,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-05",
+        "followers": 3141389,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-04",
+        "followers": 3122805,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-03",
+        "followers": 3122121,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-02",
+        "followers": 3121660,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-09-01",
+        "followers": 3121522,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-31",
+        "followers": 3122250,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-30",
+        "followers": 3121601,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-29",
+        "followers": 3117376,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-28",
+        "followers": 3116008,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-27",
+        "followers": 3112958,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-26",
+        "followers": 3110422,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-25",
+        "followers": 3107928,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-24",
+        "followers": 3105699,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-23",
+        "followers": 3103453,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-22",
+        "followers": 3099937,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-21",
+        "followers": 3096321,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-20",
+        "followers": 3093906,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-19",
+        "followers": 3089871,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-18",
+        "followers": 3086144,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-17",
+        "followers": 3085216,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-16",
+        "followers": 3082157,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-15",
+        "followers": 3079222,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-14",
+        "followers": 3076216,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-13",
+        "followers": 3071092,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-12",
+        "followers": 3066292,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-11",
+        "followers": 3061426,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-10",
+        "followers": 3056573,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-09",
+        "followers": 3056261,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-08",
+        "followers": 3051820,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-07",
+        "followers": 3046114,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-06",
+        "followers": 3042357,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-05",
+        "followers": 3039112,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-04",
+        "followers": 3034761,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-03",
+        "followers": 3032969,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-02",
+        "followers": 3030905,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-08-01",
+        "followers": 3027719,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-31",
+        "followers": 3026459,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-30",
+        "followers": 3026706,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-29",
+        "followers": 3023899,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-28",
+        "followers": 3020204,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-27",
+        "followers": 3015608,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-26",
+        "followers": 3011002,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-25",
+        "followers": 3010238,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-24",
+        "followers": 3009498,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-23",
+        "followers": 3009944,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-22",
+        "followers": 3008200,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-21",
+        "followers": 3004850,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-20",
+        "followers": 3000498,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-19",
+        "followers": 2997864,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-18",
+        "followers": 2995003,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-17",
+        "followers": 2991894,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-16",
+        "followers": 2986559,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-15",
+        "followers": 2980399,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-14",
+        "followers": 2974684,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-13",
+        "followers": 2971981,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-12",
+        "followers": 2969340,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-11",
+        "followers": 2967091,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-10",
+        "followers": 2964485,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-09",
+        "followers": 2962561,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-08",
+        "followers": 2960891,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-07",
+        "followers": 2958062,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-06",
+        "followers": 2956385,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-05",
+        "followers": 2955069,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-04",
+        "followers": 2953564,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-03",
+        "followers": 2951646,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-02",
+        "followers": 2950037,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-07-01",
+        "followers": 2948928,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-30",
+        "followers": 2947787,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-29",
+        "followers": 2946369,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-28",
+        "followers": 2944441,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-27",
+        "followers": 2941556,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-26",
+        "followers": 2939563,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-25",
+        "followers": 2937442,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-24",
+        "followers": 2935556,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-23",
+        "followers": 2933520,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-22",
+        "followers": 2931459,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-21",
+        "followers": 2929525,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-20",
+        "followers": 2927210,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-19",
+        "followers": 2924948,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-18",
+        "followers": 2922788,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-17",
+        "followers": 2920694,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-16",
+        "followers": 2918511,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-15",
+        "followers": 2916313,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-14",
+        "followers": 2914005,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-13",
+        "followers": 2911361,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-12",
+        "followers": 2908999,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-11",
+        "followers": 2906237,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-10",
+        "followers": 2903035,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-09",
+        "followers": 2901010,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-08",
+        "followers": 2898699,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-07",
+        "followers": 2896066,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-06",
+        "followers": 2893092,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-05",
+        "followers": 2889349,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-04",
+        "followers": 2882702,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-03",
+        "followers": 2864905,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-02",
+        "followers": 2861499,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-06-01",
+        "followers": 2859072,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-31",
+        "followers": 2856600,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-30",
+        "followers": 2854290,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-29",
+        "followers": 2851979,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-28",
+        "followers": 2849424,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-27",
+        "followers": 2847143,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-26",
+        "followers": 2844498,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-25",
+        "followers": 2841987,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-24",
+        "followers": 2839164,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-23",
+        "followers": 2835652,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-22",
+        "followers": 2832224,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-21",
+        "followers": 2828858,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-20",
+        "followers": 2823953,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-19",
+        "followers": 2818951,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-18",
+        "followers": 2816238,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-17",
+        "followers": 2814054,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-16",
+        "followers": 2811441,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-15",
+        "followers": 2808787,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-14",
+        "followers": 2807203,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-12",
+        "followers": 2801640,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-11",
+        "followers": 2799175,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-10",
+        "followers": 2796834,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-09",
+        "followers": 2794507,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-08",
+        "followers": 2792159,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-07",
+        "followers": 2789569,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-06",
+        "followers": 2786791,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-05",
+        "followers": 2783996,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-04",
+        "followers": 2781115,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-03",
+        "followers": 2778436,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-02",
+        "followers": 2775594,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-05-01",
+        "followers": 2772539,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-30",
+        "followers": 2770189,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-29",
+        "followers": 2767528,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-28",
+        "followers": 2764973,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-27",
+        "followers": 2762327,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-26",
+        "followers": 2759553,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-25",
+        "followers": 2756789,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-24",
+        "followers": 2753923,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-23",
+        "followers": 2750322,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-22",
+        "followers": 2746302,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-21",
+        "followers": 2743395,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-20",
+        "followers": 2740704,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-19",
+        "followers": 2737591,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-18",
+        "followers": 2733890,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-17",
+        "followers": 2731072,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-16",
+        "followers": 2728532,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-15",
+        "followers": 2726366,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-14",
+        "followers": 2724262,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-13",
+        "followers": 2722289,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-12",
+        "followers": 2720418,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-11",
+        "followers": 2718638,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-10",
+        "followers": 2716390,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-09",
+        "followers": 2714805,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-08",
+        "followers": 2712564,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-07",
+        "followers": 2710418,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-06",
+        "followers": 2708358,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-05",
+        "followers": 2706035,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-04",
+        "followers": 2703585,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-03",
+        "followers": 2701253,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      },
+      {
+        "date": "2019-04-02",
+        "followers": 2699414,
+        "following": 0,
+        "tweets": 0,
+        "favorites": 0
+      }
+    ]
+  }
+}
